@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" weight="1600" src="http://w2.wallls.com/uploads/high-thumbnail/201601/28/52476.jpg"  />
-</div>
+
 
 ###
 
@@ -21,7 +19,7 @@
 
 ###
 
-<h1 align="center" color="green">welcome👋</h1>
+<h1 align="center">welcome👋</h1>
 
 ###
 
