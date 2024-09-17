@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Alain from Brazil 🇧🇷<br><br>- 🔭 i’m working as ...<br>- 📚 i'm currently learning C# and SQL<br>- ⚡ i'm studying first year of high school in system development</p>
+<p align="left">I'm Alain from Brazil 🇧🇷<br><br>- 🔭 i’m working in C# <br>- 📚 i'm currently learning C# and SQL<br>- ⚡ i'm studying first year of high school in system development</p>
 
 ###
 
